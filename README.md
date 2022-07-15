@@ -2,9 +2,16 @@
 
 A new Flutter project.
 
-# Screen Shot 
+# ScreenShot 
 
-<iframe style="border: none" width="31" height="32" src="https://rive.app/s/Nem1VPl6mUm2CK2c-iCIfw/embed" allowfullscreen></iframe>
+
+
+https://user-images.githubusercontent.com/54742205/179273856-261c74e7-3504-4c7d-844a-e2334e4728ad.mp4
+
+
+
+https://user-images.githubusercontent.com/54742205/179273874-a26d8e63-87b6-42fe-b21d-86b70a9facbc.mp4
+
 
 ## Getting Started
 
